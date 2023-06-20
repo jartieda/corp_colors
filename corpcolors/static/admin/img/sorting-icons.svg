@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="14"
+   height="84"
+   viewBox="0 0 1792 10752"
+   version="1.1"
+   id="svg126"
+   sodipodi:docname="sorting-icons.svg"
+   inkscape:version="1.2.2 (b0a8486, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview128"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="2.8095238"
+     inkscape:cx="8.5423729"
+     inkscape:cy="43.423729"
+     inkscape:window-width="1566"
+     inkscape:window-height="902"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg126" />
+  <defs
+     id="defs112">
+    <g
+       id="sort">
+      <path
+         d="M1408 1088q0 26-19 45l-448 448q-19 19-45 19t-45-19l-448-448q-19-19-19-45t19-45 45-19h896q26 0 45 19t19 45zm0-384q0 26-19 45t-45 19h-896q-26 0-45-19t-19-45 19-45l448-448q19-19 45-19t45 19l448 448q19 19 19 45z"
+         id="path103" />
+    </g>
+    <g
+       id="ascending">
+      <path
+         d="M1408 1216q0 26-19 45t-45 19h-896q-26 0-45-19t-19-45 19-45l448-448q19-19 45-19t45 19l448 448q19 19 19 45z"
+         id="path106" />
+    </g>
+    <g
+       id="descending">
+      <path
+         d="M1408 704q0 26-19 45l-448 448q-19 19-45 19t-45-19l-448-448q-19-19-19-45t19-45 45-19h896q26 0 45 19t19 45z"
+         id="path109" />
+    </g>
+  </defs>
+  <use
+     xlink:href="#sort"
+     x="0"
+     y="0"
+     fill="#999999"
+     id="use114"
+     style="fill:#000000;fill-opacity:1" />
+  <use
+     xlink:href="#sort"
+     x="0"
+     y="1792"
+     fill="#447e9b"
+     id="use116"
+     style="fill:#ff0000;fill-opacity:1" />
+  <use
+     xlink:href="#ascending"
+     x="0"
+     y="3584"
+     fill="#999999"
+     id="use118"
+     style="fill:#000000;fill-opacity:1" />
+  <use
+     xlink:href="#ascending"
+     x="0"
+     y="5376"
+     fill="#447e9b"
+     id="use120"
+     style="fill:#ff0000;fill-opacity:1" />
+  <use
+     xlink:href="#descending"
+     x="0"
+     y="7168"
+     fill="#999999"
+     id="use122"
+     style="fill:#000000;fill-opacity:1" />
+  <use
+     xlink:href="#descending"
+     x="0"
+     y="8960"
+     fill="#447e9b"
+     id="use124"
+     style="fill:#ff0000;fill-opacity:1" />
+</svg>

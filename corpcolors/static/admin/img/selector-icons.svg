@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="16"
+   height="192"
+   viewBox="0 0 1792 21504"
+   version="1.1"
+   id="svg125"
+   sodipodi:docname="selector-icons.svg"
+   inkscape:version="1.2.2 (b0a8486, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview127"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="1.2291667"
+     inkscape:cx="8.9491525"
+     inkscape:cy="97.627119"
+     inkscape:window-width="1472"
+     inkscape:window-height="940"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg125" />
+  <defs
+     id="defs99">
+    <g
+       id="up">
+      <path
+         d="M1412 895q0-27-18-45l-362-362-91-91q-18-18-45-18t-45 18l-91 91-362 362q-18 18-18 45t18 45l91 91q18 18 45 18t45-18l189-189v502q0 26 19 45t45 19h128q26 0 45-19t19-45v-502l189 189q19 19 45 19t45-19l91-91q18-18 18-45zm252 1q0 209-103 385.5t-279.5 279.5-385.5 103-385.5-103-279.5-279.5-103-385.5 103-385.5 279.5-279.5 385.5-103 385.5 103 279.5 279.5 103 385.5z"
+         id="path81" />
+    </g>
+    <g
+       id="down">
+      <path
+         d="M1412 897q0-27-18-45l-91-91q-18-18-45-18t-45 18l-189 189v-502q0-26-19-45t-45-19h-128q-26 0-45 19t-19 45v502l-189-189q-19-19-45-19t-45 19l-91 91q-18 18-18 45t18 45l362 362 91 91q18 18 45 18t45-18l91-91 362-362q18-18 18-45zm252-1q0 209-103 385.5t-279.5 279.5-385.5 103-385.5-103-279.5-279.5-103-385.5 103-385.5 279.5-279.5 385.5-103 385.5 103 279.5 279.5 103 385.5z"
+         id="path84" />
+    </g>
+    <g
+       id="left">
+      <path
+         d="M1408 960v-128q0-26-19-45t-45-19h-502l189-189q19-19 19-45t-19-45l-91-91q-18-18-45-18t-45 18l-362 362-91 91q-18 18-18 45t18 45l91 91 362 362q18 18 45 18t45-18l91-91q18-18 18-45t-18-45l-189-189h502q26 0 45-19t19-45zm256-64q0 209-103 385.5t-279.5 279.5-385.5 103-385.5-103-279.5-279.5-103-385.5 103-385.5 279.5-279.5 385.5-103 385.5 103 279.5 279.5 103 385.5z"
+         id="path87" />
+    </g>
+    <g
+       id="right">
+      <path
+         d="M1413 896q0-27-18-45l-91-91-362-362q-18-18-45-18t-45 18l-91 91q-18 18-18 45t18 45l189 189h-502q-26 0-45 19t-19 45v128q0 26 19 45t45 19h502l-189 189q-19 19-19 45t19 45l91 91q18 18 45 18t45-18l362-362 91-91q18-18 18-45zm251 0q0 209-103 385.5t-279.5 279.5-385.5 103-385.5-103-279.5-279.5-103-385.5 103-385.5 279.5-279.5 385.5-103 385.5 103 279.5 279.5 103 385.5z"
+         id="path90" />
+    </g>
+    <g
+       id="clearall">
+      <path
+         transform="translate(336, 336) scale(0.75)"
+         d="M1037 1395l102-102q19-19 19-45t-19-45l-307-307 307-307q19-19 19-45t-19-45l-102-102q-19-19-45-19t-45 19l-454 454q-19 19-19 45t19 45l454 454q19 19 45 19t45-19zm627-499q0 209-103 385.5t-279.5 279.5-385.5 103-385.5-103-279.5-279.5-103-385.5 103-385.5 279.5-279.5 385.5-103 385.5 103 279.5 279.5 103 385.5z"
+         id="path93" />
+    </g>
+    <g
+       id="chooseall">
+      <path
+         transform="translate(336, 336) scale(0.75)"
+         d="M845 1395l454-454q19-19 19-45t-19-45l-454-454q-19-19-45-19t-45 19l-102 102q-19 19-19 45t19 45l307 307-307 307q-19 19-19 45t19 45l102 102q19 19 45 19t45-19zm819-499q0 209-103 385.5t-279.5 279.5-385.5 103-385.5-103-279.5-279.5-103-385.5 103-385.5 279.5-279.5 385.5-103 385.5 103 279.5 279.5 103 385.5z"
+         id="path96" />
+    </g>
+  </defs>
+  <use
+     xlink:href="#up"
+     x="0"
+     y="0"
+     fill="#666666"
+     id="use101"
+     style="fill:#000000;fill-opacity:1" />
+  <use
+     xlink:href="#up"
+     x="0"
+     y="1792"
+     fill="#447e9b"
+     id="use103"
+     style="fill:#ff0000;fill-opacity:1" />
+  <use
+     xlink:href="#down"
+     x="0"
+     y="3584"
+     fill="#666666"
+     id="use105"
+     style="fill:#000000;fill-opacity:1" />
+  <use
+     xlink:href="#down"
+     x="0"
+     y="5376"
+     fill="#447e9b"
+     id="use107"
+     style="fill:#ff0000;fill-opacity:1" />
+  <use
+     xlink:href="#left"
+     x="0"
+     y="7168"
+     fill="#666666"
+     id="use109"
+     style="fill:#000000;fill-opacity:1" />
+  <use
+     xlink:href="#left"
+     x="0"
+     y="8960"
+     fill="#447e9b"
+     id="use111"
+     style="fill:#ff0000;fill-opacity:1" />
+  <use
+     xlink:href="#right"
+     x="0"
+     y="10752"
+     fill="#666666"
+     id="use113"
+     style="fill:#000000;fill-opacity:1" />
+  <use
+     xlink:href="#right"
+     x="0"
+     y="12544"
+     fill="#447e9b"
+     id="use115"
+     style="fill:#ff0000;fill-opacity:1" />
+  <use
+     xlink:href="#clearall"
+     x="0"
+     y="14336"
+     fill="#666666"
+     id="use117"
+     style="fill:#000000;fill-opacity:1" />
+  <use
+     xlink:href="#clearall"
+     x="0"
+     y="16128"
+     fill="#447e9b"
+     id="use119"
+     style="fill:#ff0000;fill-opacity:1" />
+  <use
+     xlink:href="#chooseall"
+     x="0"
+     y="17920"
+     fill="#666666"
+     id="use121"
+     style="fill:#000000;fill-opacity:1" />
+  <use
+     xlink:href="#chooseall"
+     x="0"
+     y="19712"
+     fill="#447e9b"
+     id="use123"
+     style="fill:#ff0000;fill-opacity:1" />
+</svg>

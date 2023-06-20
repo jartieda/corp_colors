@@ -1,0 +1,153 @@
+/* VARIABLE DEFINITIONS */
+:root {
+    --primary: #333333;
+    --secondary: #ff0000;
+    --accent: #333333;
+    --primary-fg: #111111;
+
+    --body-fg: #333;
+    --body-bg: #fff;
+    --body-quiet-color: #666;
+    --body-loud-color: #000;
+
+    --header-color: #111111;
+    --header-branding-color: var(--accent);
+    --header-bg: var(--secondary);
+    --header-link-color: var(--primary-fg);
+
+    --breadcrumbs-fg: #c4dce8;
+    --breadcrumbs-link-fg: var(--body-bg);
+    --breadcrumbs-bg: var(--primary);
+
+    --link-fg: #ff0000;
+    --link-hover-color: #036;
+    --link-selected-fg: #ff0000;
+
+    --hairline-color: #e8e8e8;
+    --border-color: #ccc;
+
+    --error-fg: #ba2121;
+
+    --message-success-bg: #dfd;
+    --message-warning-bg: #ffc;
+    --message-error-bg: #ffefef;
+
+    --darkened-bg: #ffffff;
+    --selected-bg: #e4e4e4;
+    /* E.g. selected table cells */
+    --selected-row: #f5f5f5;
+
+    --button-fg: #fff;
+    --button-bg: var(--primary);
+    --button-hover-bg: #609ab6;
+    --default-button-bg: var(--secondary);
+    --default-button-hover-bg: #205067;
+    --close-button-bg: #ff0000;
+    /* Previously #bbb, contrast 1.92 */
+    --close-button-hover-bg: #747474;
+    --delete-button-bg: #ff0000;
+    --delete-button-hover-bg: #a41515;
+
+    --object-tools-fg: var(--button-fg);
+    --object-tools-bg: var(--close-button-bg);
+    --object-tools-hover-bg: var(--close-button-hover-bg);
+}
+
+
+#header {
+    background: var(--body-bg);
+    color: #666666;
+}
+
+.dashboard div#header,
+.dashboard div#header a:link,
+.dashboard div#header a:visited {
+    background: var(--primary);
+    color: var(--body-bg);
+}
+
+#branding h1 a:visited {
+    color: var(--header-link-color);
+}
+
+.dashboard .module table tr a {
+    color: var(--primary);
+}
+
+nav#nav-sidebar .module th a,
+nav#nav-sidebar .module td a {
+    color: var(--primary);
+}
+
+#nav-sidebar .current-model {
+    background: var(--selected-row);
+}
+
+nav#nav-sidebar .module .current-model th a,
+nav#nav-sidebar .module .current-model td a {
+    color: var(--secondary);
+}
+
+
+.module .selector-chosen h2 {
+    background: var(--body-bg);
+    color: var(--header-link-color);
+}
+
+.module .selector .selector-available h2 {
+    background: var(--body-bg);
+    color: var(--body-quiet-color);
+}
+
+.module h2,
+.module caption,
+.calendar caption,
+.calendarbox h2 {
+    background: var(--body-bg);
+}
+
+#result_list th.field-id a:link,
+#result_list th.field-id a:visited {
+    color: var(--secondary);
+    font-weight: 800;
+}
+
+
+#result_list th.field-id a:hover {
+    color: var(--primary);
+    font-weight: 800;
+}
+
+input[type=submit],
+input[type=button],
+.submit-row input,
+a.button {
+    background: var(--selected-row);
+    color: var(--header-color);
+}
+
+input[type=submit].default,
+.submit-row input.default {
+    background: var(--primary);
+    color: var(--body-bg);
+}
+
+input:-internal-autofill-selected {
+    background: var(--hairline-color) !important;
+    border: 1px solid var(--body-quiet-color) !important;
+    background-color: var(--hairline-color) !important;
+}
+
+:focus-visible {
+    outline: -webkit-black auto 1px;
+}
+
+/*---Plus(+)----*/
+
+td a.addlink {
+    background: url('/static/admin/img/icon-addlink-black.svg') no-repeat;
+}
+
+#nav-sidebar .current-model td a.addlink {
+    background: url('/static/admin/img/icon-addlink.svg') no-repeat;
+}
