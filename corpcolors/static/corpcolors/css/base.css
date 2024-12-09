@@ -151,3 +151,7 @@ td a.addlink {
 #nav-sidebar .current-model td a.addlink {
     background: url('/static/admin/img/icon-addlink.svg') no-repeat;
 }
+
+.empty-form {
+    display: table-row;
+}
